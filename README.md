@@ -22,7 +22,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>MasterMind Game</b>
-  - [Mastermind game which is a Python implementation of the classic board game Mastermind.](https://github.com/jasonaksu)
+  - [Mastermind game which is a Python implementation of the classic board game Mastermind.](https://github.com/jasonaksu/Python_Projects/tree/master/MasterMind-Game)
 
 
 
