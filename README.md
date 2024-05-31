@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! <br/><a href="https://github.com/jasonaksu">Programmer</a>, <a href="https://www.linkedin.com/in/jasonaksu/">Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/jasonaksu/">Cybersecurity Enthusiast</a>, <a href="https://github.com/jasonaksu">Programmer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
