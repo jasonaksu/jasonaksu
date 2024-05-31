@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>nScan Network Scanner (Python)</b>
-  - [Providing a versatile tool for network administration and cyber security professionals to identify and assess network vulnerabilities.](https://github.com/jasonaksu)
+  - [Providing a versatile tool for network administration and cyber security professionals to identify and assess network vulnerabilities.](https://github.com/jasonaksu/CY_Projects/tree/main/nScan)
 - <b>Password Cracker (Python)</b>
-  - [Python based Password cracker using dictionary attack.](https://github.com/jasonaksu)
+  - [Python based Password cracker using dictionary attack.](https://github.com/jasonaksu/CY_Projects/tree/main/passCracker)
 - <b>RSA Algorithm (RSA Key Generator - Python) </b>
   - [RSA encryption and decryption system with generating prime number keys](https://github.com/jasonaksu)
 - <b>Admino Script (Linux System Administration Script) </b>
-  - [Bash script with improved Linux security functions.](https://github.com/jasonaksu)
+  - [Bash script with improved Linux security functions.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
 - <b>Home LAB</b>
   - Set up Elastic Stack SIEM in a home lab environment. Configured Elastic Agents for log collection and forwarding data to the SIEM for effective security event monitoring.
   - Experienced in security event generation and analysis using Nmap on Kali Linux. Skillful in network security monitoring and threat detection through querying Elastic SIEM to identify and investigate security incidents.
