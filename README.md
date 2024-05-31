@@ -29,17 +29,19 @@
 <h2>👨‍💻 C Projects - Data Structures and Algorithms Practice :</h2>
 
 - <b>BestSort</b>
-  - [Compares sorting algorithms which are insertion sort, mergesort, and quicksort with hybrid sort.](https://github.com/jasonaksu)
+  - [Compares sorting algorithms which are insertion sort, mergesort, and quicksort with hybrid sort.](https://github.com/jasonaksu/C_Projects/tree/main/BestSort)
 - <b>Trinary</b>
-  - [Implementation of two functions that are variations or applications of the binary search algorithm.](https://github.com/jasonaksu)
+  - [Implementation of two functions that are variations or applications of the binary search algorithm.](https://github.com/jasonaksu/C_Projects/tree/main/Trinary)
+- <b>MergeSort</b>
+  - [Mergesort is a popular divide-and-conquer algorithm to efficiently sort an array of comparable elements.](https://github.com/jasonaksu/C_Projects/tree/main/MergeSort)
 - <b>Dlist</b>
-  - [Dlist is the implementation of a doubly linked list. More efficient than singly linked list for some operations. ](https://github.com/jasonaksu)
+  - [Dlist is the implementation of a doubly linked list. More efficient than singly linked list for some operations. ](https://github.com/jasonaksu/C_Projects/tree/main/Dlist)
 - <b>Deque and Stack</b>
-  - [A "deque" is a doubly-ended queue and A stack is a common data structure.](https://github.com/jasonaksu)
+  - [A "deque" is a doubly-ended queue and A stack is a common data structure.](https://github.com/jasonaksu/C_Projects/tree/main/Deque_and_Stack)
 - <b>Hash Table</b>
-  - [Implementing hash table data structure. A hash table known for its speed in looking for things.](https://github.com/jasonaksu)
+  - [Implementing hash table data structure. A hash table known for its speed in looking for things.](https://github.com/jasonaksu/C_Projects/tree/main/hash_table)
 - <b>Graph</b>
-  - [Implementation of a weighted directed algorithm and two algorithms on it.](https://github.com/jasonaksu)
+  - [Implementation of a weighted directed algorithm and two algorithms on it.](https://github.com/jasonaksu/C_Projects/tree/main/The_Graph)
 
 <h2>👨‍💻 Certifications:</h2>
 
