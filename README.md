@@ -7,7 +7,7 @@
 - <b>Password Cracker (Python)</b>
   - [Python based Password cracker using dictionary attack.](https://github.com/jasonaksu/CY_Projects/tree/main/passCracker)
 - <b>RSA Algorithm (RSA Key Generator - Python) </b>
-  - [RSA encryption and decryption system with generating prime number keys](https://github.com/jasonaksu)
+  - [RSA encryption and decryption system with generating prime number keys](https://github.com/jasonaksu/CY_Projects/tree/main/%20rsaAlgorithm)
 - <b>Admino Script (Linux System Administration Script) </b>
   - [Bash script with improved Linux security functions.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
 - <b>Home LAB</b>
