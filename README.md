@@ -6,16 +6,21 @@
   - [Providing a versatile tool for network administration and cyber security professionals to identify and assess network vulnerabilities.](https://github.com/jasonaksu/CY_Projects/tree/main/nScan)
 - <b>Password Cracker (Python)</b>
   - [Python based Password cracker using dictionary attack.](https://github.com/jasonaksu/CY_Projects/tree/main/passCracker)
+- <b>SecureComm (A C program that establishes a secure TCP connection to a server.) </b>
+  - [Sends encrypted messages and verifies the integrity of the responses.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
 - <b>RSA Algorithm (RSA Key Generator - Python) </b>
   - [RSA encryption and decryption system with generating prime number keys](https://github.com/jasonaksu/CY_Projects/tree/main/%20rsaAlgorithm)
 - <b>Admino Script (Linux System Administration Script) </b>
   - [Bash script with improved Linux security functions.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
-- <b>Home LAB</b>
-  - Set up Elastic Stack SIEM in a home lab environment. Configured Elastic Agents for log collection and forwarding data to the SIEM for effective security event monitoring.
-  - Experienced in security event generation and analysis using Nmap on Kali Linux. Skillful in network security monitoring and threat detection through querying Elastic SIEM to identify and investigate security incidents.
-  - Configured pfsense firewall for Network Segmentation & Security, utilized Security Onion as the main IDS and log management.
-  - Generate a key pair, and learn the fundamentals of how to generate, sign, and manage PGP keys, as well as encrypt, decrypt, and sign messages.
-  - Exercised Linux System Admin skills at Linux terminal by creating users and groups, setting up permissions, editing files and folders, checking login events, and performing a system update by making sure all security patches are covered.
+- <b>LAB Achivements</b>
+  - Developed and implemented a custom secure transport protocol in C, utilizing the C Socket API and libsodium for authenticated encryption and integrity protection to communicate with a TCP service. Successfully managed hash computation and base64 encoding, ensuring reliable data transmission and integrity in a network attack.
+  - Conducted comprehensive network analysis and computer forensics with Wireshark to identify IP addresses and hidden services. Retrieved and decrypted corrupted documents and image files, demonstrating expertise in network reconnaissance and traffic analysis.
+  - Exploited setgid programs in a Linux environment to execute privileged commands, using Blackbox dynamic analysis and tools like ltrace. Successfully bypassed security mechanisms in multiple programs, demonstrating proficiency in Linux attacks and command injection techniques.
+  - Performed a penetration test on a proprietary web application, identifying and exploiting vulnerabilities using SQL injection, XSS, and CSRF attacks. Successfully executed tasks such as purchasing items, listing new items, and manipulating user actions without privileged access, demonstrating proficiency in web application security.
+  - Executed advanced cache poisoning and HTTP smuggling attacks to render a dark web site's login page inaccessible. Demonstrated proficiency in manipulating HTTP headers and leveraging caching proxies to achieve denial-of-service, showcasing expertise in web security and attack techniques.
+  - Exploited buffer overflow vulnerabilities in 32-bit binaries by disabling modern OS defenses, using gdb for debugging, and employing shellcode to achieve privilege escalation. Successfully executed privileged commands on targeted programs.
+  - Identified and exploited algorithmic complexity attacks and side channels in a web application, causing denial-of-service and recovering hidden data. Successfully manipulated server processing to extract sensitive information.
+  - Performed SSH configuration and hardening. Generated a key pair and learned the fundamentals of how to generate, sign, and manage PGP keys, as well as encrypt, decrypt, and sign messages. Exercised Linux System Admin skills at a Linux terminal by creating users and groups, setting up permissions, editing files and folders, checking login events, and performing a system update by making sure all security patches are covered.
 
  
 
