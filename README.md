@@ -7,7 +7,7 @@
 - <b>Password Cracker (Python)</b>
   - [Python based Password cracker using dictionary attack.](https://github.com/jasonaksu/CY_Projects/tree/main/passCracker)
 - <b>SecureComm (A C program that establishes a secure TCP connection to a server.) </b>
-  - [Sends encrypted messages and verifies the integrity of the responses.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
+  - [Sends encrypted messages and verifies the integrity of the responses.](https://github.com/jasonaksu/CY_Projects/tree/main/SecureComm)
 - <b>RSA Algorithm (RSA Key Generator - Python) </b>
   - [RSA encryption and decryption system with generating prime number keys](https://github.com/jasonaksu/CY_Projects/tree/main/%20rsaAlgorithm)
 - <b>Admino Script (Linux System Administration Script) </b>
