@@ -13,14 +13,15 @@
 - <b>Admino Script (Linux System Administration Script) </b>
   - [Bash script with improved Linux security functions.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
 - <b>LAB Achivements</b>
-  - Developed and implemented a custom secure transport protocol in C, utilizing the C Socket API and libsodium for authenticated encryption and integrity protection to communicate with a TCP service. Successfully managed hash computation and base64 encoding, ensuring reliable data transmission and integrity in a network attack.
-  - Conducted comprehensive network analysis and computer forensics with Wireshark to identify IP addresses and hidden services. Retrieved and decrypted corrupted documents and image files, demonstrating expertise in network reconnaissance and traffic analysis.
-  - Exploited setgid programs in a Linux environment to execute privileged commands, using Blackbox dynamic analysis and tools like ltrace. Successfully bypassed security mechanisms in multiple programs, demonstrating proficiency in Linux attacks and command injection techniques.
-  - Performed a penetration test on a proprietary web application, identifying and exploiting vulnerabilities using SQL injection, XSS, and CSRF attacks. Successfully executed tasks such as purchasing items, listing new items, and manipulating user actions without privileged access, demonstrating proficiency in web application security.
-  - Executed advanced cache poisoning and HTTP smuggling attacks to render a dark web site's login page inaccessible. Demonstrated proficiency in manipulating HTTP headers and leveraging caching proxies to achieve denial-of-service, showcasing expertise in web security and attack techniques.
-  - Exploited buffer overflow vulnerabilities in 32-bit binaries by disabling modern OS defenses, using gdb for debugging, and employing shellcode to achieve privilege escalation. Successfully executed privileged commands on targeted programs.
-  - Identified and exploited algorithmic complexity attacks and side channels in a web application, causing denial-of-service and recovering hidden data. Successfully manipulated server processing to extract sensitive information.
-  - Performed SSH configuration and hardening. Generated a key pair and learned the fundamentals of how to generate, sign, and manage PGP keys, as well as encrypt, decrypt, and sign messages. Exercised Linux System Admin skills at a Linux terminal by creating users and groups, setting up permissions, editing files and folders, checking login events, and performing a system update by making sure all security patches are covered.
+<b>Advanced Penetration Testing & Exploit Development</b>
+•	Implemented a custom secure transport protocol in C using the C Socket API and libsodium, ensuring end-to-end encrypted communication resistant to MITM attacks.
+•	Conducted advanced network analysis with Wireshark, retrieving and decrypting sensitive data files. Demonstrated skills in forensic recovery and real-time traffic analysis.
+•	Developed and executed buffer overflow exploits, using gdb and pwntools to bypass modern OS defenses, successfully escalating privileges in a controlled lab environment.
+•	Performed successful privilege escalation using setgid and ltrace for dynamic analysis in Linux environments, bypassing security mechanisms.
+•	Exploited web application vulnerabilities in a controlled pentesting lab, using SQL Injection, XSS, and CSRF attacks to manipulate user accounts, bypass authentication, and perform privilege escalation.
+•	Executed complex cache poisoning and HTTP smuggling attacks using Burp Suite, demonstrating proficiency in web application security.
+•	Identified and exploited algorithmic complexity attacks and side channels in a controlled pentesting lab environment. Successfully induced denial-of-service conditions and recovered hidden data by manipulating server-side processing and response times.
+
 
  
 
