@@ -12,33 +12,31 @@
   - [RSA encryption and decryption system with generating prime number keys](https://github.com/jasonaksu/CY_Projects/tree/main/%20rsaAlgorithm)
 - <b>Admino Script (Linux System Administration Script) </b>
   - [Bash script with improved Linux security functions.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
-- <b>LAB Achivements</b>
+
+- <b>LAB PROJECTS & HANDS-ON EXPERIENCE</b>
 
 <b>Advanced Penetration Testing & Exploit Development</b>
-  - Implemented a custom secure transport protocol in C using the C Socket API and libsodium, ensuring end-to-end encrypted communication resistant to MITM attacks.
+  - Implemented ecure client-server communication in C using the C Socket API and libsodium, ensuring encrypted, integrity-protected messaging. Designed a retry mechanism for corrupted transmissions and processed responses via secure hashing and base64 encoding.
   - Conducted advanced network analysis with Wireshark, retrieving and decrypting sensitive data files. Demonstrated skills in forensic recovery and real-time traffic analysis.
-  - Developed and executed buffer overflow exploits, using gdb and pwntools to bypass modern OS defenses, successfully escalating privileges in a controlled lab environment.
-  - Performed successful privilege escalation using setgid and ltrace for dynamic analysis in Linux environments, bypassing security mechanisms.
+  - Developed and executed buffer overflow exploits to bypass ASLR and NX protections in a remote exploitation challenge. Crafted a NOP sled and brute-forced return addresses to execute shellcode successfully and gain a reverse shell. Used dynamic payload adjustments to optimize exploit reliability.
+  - Exploited setgid binaries in Linux via ltrace, identifying command injection and environment manipulation to escalate privileges and execute restricted binaries.
   - Exploited web application vulnerabilities in a controlled pentesting lab, using SQL Injection, XSS, and CSRF attacks to manipulate user accounts, bypass authentication, and perform privilege escalation.
-  - Executed complex cache poisoning and HTTP smuggling attacks using Burp Suite, demonstrating proficiency in web application security.
-  - Identified and exploited algorithmic complexity attacks and side channels in a controlled pentesting lab environment. Successfully induced denial-of-service conditions and recovered hidden data by manipulating server-side processing and response times.
+  - Launched a cache poisoning-based denial-of-service (CPDoS) attack on a web application by manipulating HTTP caching behavior. Used Burp Suite to refine payloads and bypass layered defenses with HTTP smuggling.
+  - Exploited algorithmic complexity and side-channel vulnerabilities in a web application, inducing denial-of-service via comput
 
 <b>Digital Forensics</b>
-  - Conducted full digital forensic analysis of a Windows and Mobil systems, extracting registry hives, shell items, LNK files, and prefetch data using Autopsy, FTK Imager, Arsenal Image Mounter.
-  - Performed timeline analysis of system events to reconstruct user activity, detecting data exfiltration attempts, unauthorized software installations, and suspicious login patterns.
-  - Utilized YARA rules to detect and classify malware artifacts, leveraging Thor, Loki, and Volatility for memory forensics.
-  - Authored a full forensic investigation report, presenting detailed evidence analysis, forensic methodologies, and conclusive findings for legal and internal security teams in accordance with NIST 800-86 and ISO 27037 guidelines.
-  - Exercised Linux system administration by managing user accounts, groups, and file permissions. Configured access controls, monitored login events, and ensured system integrity through regular security updates and patch management.
+  - Conducted forensic analysis of Windows and macOS systems, extracting system artifacts (registry hives, shell items, LNK files, and prefetch data) using FTK Imager, Arsenal Image Mounter, and specialized forensic parsers.
+  - Performed mobile device analysis using Autopsy, recovering deleted call logs, SMS, contacts, and application data for forensic reporting.
+  - Captured and analyzed network traffic using Wireshark, correlating event logs to detect data exfiltration attempts and unauthorized software installations.
+  - Performed timeline analysis to reconstruct user activity, tracking suspicious login patterns and identifying forensic artifacts relevant to investigations.
+  - Authored a comprehensive forensic report, documenting evidence collection, methodology, and findings, aligning with NIST 800-86 and ISO 27037 guidelines for legal and internal security teams.
+  - Practiced chain of custody procedures for digital evidence collection, storage, and preservation, ensuring forensic integri
 
 <b>Security Research & Bug Bounty (Ongoing)</b>
   - Actively testing web applications in Bug Bounty programs (HackerOne, Bugcrowd, Intigriti), refining skills in recon, SQLi, XSS, authentication security, and access control testing.
   - Configured and hardened SSH security by generating and managing key pairs. Practiced PGP key signing, encryption, decryption, and message authentication, reinforcing secure communication techniques.
   - Practicing responsible disclosure methodology by identifying and reporting potential security misconfigurations in real-world applications.
-  - Leveraging Burp Suite, OWASP ZAP, and custom Python scripts for vulnerability testing and exploit development.
-  - Working on automating reconnaissance and common attack payloads to improve bug bounty workflow.
-
-
- 
+  - Leveraging Burp Suite, OWASP ZAP, and custom Python scripts for vulnerability testing and exploit dev
 
 <h2>👨‍💻 Python Projects:</h2>
 
