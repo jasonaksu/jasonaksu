@@ -1,6 +1,49 @@
 <h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/jasonaksu/">Cybersecurity Enthusiast</a>, <a href="https://github.com/jasonaksu">Programmer</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+* <b>EXPERIENCE</b>
+
+<b>AI/LLM Red Teaming & AI Security Testing</b>
+
+* Conducted adversarial testing of LLM-powered systems across direct and indirect prompt injection, jailbreaks, multi-turn refusal erosion, latent injection, RAG pipeline abuse, and unsafe tool/function-calling behavior.
+* Built prompt-evaluation workflows mapped to the OWASP LLM Top 10, including custom scenarios for tool abuse, guardrail bypass, multi-tenancy risk, and policy enforcement gaps.
+* Tested AI systems for unsafe behavior involving severity manipulation, over-permissioned tools, insecure output handling, and untrusted-content ingestion.
+* Used Garak, Promptfoo, DeepEval, Rebuff, and custom Python harnesses to automate AI security testing, compare model behavior, and reproduce findings consistently.
+* Documented AI security findings with clear attack paths, impact analysis, reproduction steps, and practical remediation guidance.
+
+<b>Web, API & Application Penetration Testing</b>
+
+* Performed hands-on web application and API security testing focused on authentication, authorization, broken access control, business logic flaws, injection, XSS, IDOR, and excessive data exposure.
+* Developed end-to-end exploitation chains combining multiple vulnerabilities to demonstrate real-world impact, including privilege escalation, account takeover, data exposure, and destructive-action risk.
+* Built repeatable testing workflows aligned with OWASP WSTG and OWASP API Top 10, covering recon, endpoint discovery, input testing, exploitation, and remediation validation.
+* Used Burp Suite Pro, Postman, SQLMap, Nuclei, feroxbuster, ffuf, httpx, Amass, Subfinder, Katana, Nmap, and custom scripts for manual and automated testing.
+* Created professional vulnerability reports with proof-of-concept steps, screenshots, severity rationale, CVSS scoring, and remediation recommendations.
+
+<b>Advanced Penetration Testing & Exploit Development</b>
+
+* Implemented secure client-server communication in C using the C Socket API and libsodium, ensuring encrypted and integrity-protected messaging.
+* Developed and executed buffer overflow exploits in controlled lab environments, practicing stack analysis, payload construction, NOP sleds, return-address control, and exploit reliability tuning.
+* Exploited Linux privilege-escalation scenarios involving insecure binaries, misconfigured permissions, command injection, and environment-variable manipulation.
+* Conducted network traffic analysis with Wireshark to identify sensitive data exposure, suspicious activity, and protocol-level weaknesses.
+* Practiced exploitation and post-exploitation techniques across Linux and web environments using tools such as Metasploit, Netcat, LinPEAS, WinPEAS, Ghidra, gdb, and Bash/Python scripting.
+
+<b>Digital Forensics</b>
+
+* Conducted forensic acquisition and analysis of Windows, macOS, and mobile systems using Autopsy, FTK Imager, Arsenal Image Mounter, Registry Explorer, and related forensic tools.
+* Extracted and analyzed artifacts including registry hives, LNK files, shell items, prefetch data, application data, SMS records, contacts, and deleted mobile artifacts.
+* Correlated host artifacts, event logs, file-system activity, and network captures to reconstruct timelines and investigate potential unauthorized activity.
+* Practiced evidence handling, documentation, and chain-of-custody procedures aligned with NIST 800-86 and ISO 27037 forensic guidance.
+* Authored structured forensic reports covering acquisition methodology, artifact analysis, timeline reconstruction, findings, and investigative conclusions.
+
+<b>Security Research, CTFs & Continuous Practice</b>
+
+* Actively practice offensive security through CTFs, lab environments, and authorized vulnerability research focused on web, API, AI/LLM, network, and Linux security.
+* Ranked in the top tier of global CTF participants, using hands-on labs to strengthen exploitation methodology, enumeration discipline, and technical reporting.
+* Research emerging AI security risks including prompt injection, insecure agent design, RAG exploitation, tool abuse, and LLM guardrail bypass techniques.
+* Create cybersecurity educational content focused on practical offensive security, CTF walkthroughs, AI security concepts, and hands-on penetration testing methodology.
+* Continuously refine testing workflows using Burp Suite Pro, Python, Bash, open-source security tools, and manual verification techniques.
+
+
+<h2>👨💻 Cybersecurity Projects:</h2>
 
 - <b>nScan Network Scanner (Python)</b>
   - [Providing a versatile tool for network administration and cyber security professionals to identify and assess network vulnerabilities.](https://github.com/jasonaksu/CY_Projects/tree/main/nScan)
@@ -13,30 +56,6 @@
 - <b>Admino Script (Linux System Administration Script) </b>
   - [Bash script with improved Linux security functions.](https://github.com/jasonaksu/CY_Projects/tree/main/adminoScript)
 
-- <b>LAB PROJECTS & HANDS-ON EXPERIENCE</b>
-
-<b>Advanced Penetration Testing & Exploit Development</b>
-  - Implemented ecure client-server communication in C using the C Socket API and libsodium, ensuring encrypted, integrity-protected messaging. Designed a retry mechanism for corrupted transmissions and processed responses via secure hashing and base64 encoding.
-  - Conducted advanced network analysis with Wireshark, retrieving and decrypting sensitive data files. Demonstrated skills in forensic recovery and real-time traffic analysis.
-  - Developed and executed buffer overflow exploits to bypass ASLR and NX protections in a remote exploitation challenge. Crafted a NOP sled and brute-forced return addresses to execute shellcode successfully and gain a reverse shell. Used dynamic payload adjustments to optimize exploit reliability.
-  - Exploited setgid binaries in Linux via ltrace, identifying command injection and environment manipulation to escalate privileges and execute restricted binaries.
-  - Exploited web application vulnerabilities in a controlled pentesting lab, using SQL Injection, XSS, and CSRF attacks to manipulate user accounts, bypass authentication, and perform privilege escalation.
-  - Launched a cache poisoning-based denial-of-service (CPDoS) attack on a web application by manipulating HTTP caching behavior. Used Burp Suite to refine payloads and bypass layered defenses with HTTP smuggling.
-  - Exploited algorithmic complexity and side-channel vulnerabilities in a web application, inducing denial-of-service via comput
-
-<b>Digital Forensics</b>
-  - Conducted forensic analysis of Windows and macOS systems, extracting system artifacts (registry hives, shell items, LNK files, and prefetch data) using FTK Imager, Arsenal Image Mounter, and specialized forensic parsers.
-  - Performed mobile device analysis using Autopsy, recovering deleted call logs, SMS, contacts, and application data for forensic reporting.
-  - Captured and analyzed network traffic using Wireshark, correlating event logs to detect data exfiltration attempts and unauthorized software installations.
-  - Performed timeline analysis to reconstruct user activity, tracking suspicious login patterns and identifying forensic artifacts relevant to investigations.
-  - Authored a comprehensive forensic report, documenting evidence collection, methodology, and findings, aligning with NIST 800-86 and ISO 27037 guidelines for legal and internal security teams.
-  - Practiced chain of custody procedures for digital evidence collection, storage, and preservation, ensuring forensic integri
-
-<b>Security Research & Bug Bounty (Ongoing)</b>
-  - Actively testing web applications in Bug Bounty programs (HackerOne, Bugcrowd, Intigriti), refining skills in recon, SQLi, XSS, authentication security, and access control testing.
-  - Configured and hardened SSH security by generating and managing key pairs. Practiced PGP key signing, encryption, decryption, and message authentication, reinforcing secure communication techniques.
-  - Practicing responsible disclosure methodology by identifying and reporting potential security misconfigurations in real-world applications.
-  - Leveraging Burp Suite, OWASP ZAP, and custom Python scripts for vulnerability testing and exploit dev
 
 <h2>👨‍💻 Python Projects:</h2>
 
@@ -62,27 +81,32 @@
 - <b>Graph</b>
   - [Implementation of a weighted directed algorithm and two algorithms on it.](https://github.com/jasonaksu/C_Projects/tree/main/The_Graph)
 
-<h2>👨‍💻 Certifications:</h2>
 
-- <b>Cybersecurity & Infrastructure Agency (CISA)</b>
-  - Cybersecurity Analyst
-  - Cyber Dark Arts
-  - Linux Operating System Security
-  - Windows Operating System Security
-  - Network Security
-  - Reverse Engineering
-  - Advanced Computer Forensics
-  - Wireless Network Security
-  - AI and ML for Cybersecurity
+<h2>👨💻 Certifications & Training:</h2>
+
+* <b>CompTIA Security+</b>
+
+* <b>Google AI Professional Certificate</b>
+
+* <b>Cybersecurity & Infrastructure Security Agency (CISA) Training Certifications</b>
+
+  * Cybersecurity Analyst
+  * Cyber Dark Arts
+  * Linux Operating System Security
+  * Windows Operating System Security
+  * Network Security
+  * Reverse Engineering
+  * Advanced Computer Forensics
+  * Wireless Network Security
+  * AI and ML for Cybersecurity
+
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="jh_aksu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jasonaksu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/jh_aksu
 [linkedin]: https://linkedin.com/in/jasonaksu
 
 <!--
