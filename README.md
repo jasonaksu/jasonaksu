@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/jasonaksu/">Cybersecurity Enthusiast</a>, <a href="https://github.com/jasonaksu">Programmer</a>
 
-* <b>EXPERIENCE</b>
+<b>EXPERIENCE</b>
 
 <b>AI/LLM Red Teaming & AI Security Testing</b>
 
